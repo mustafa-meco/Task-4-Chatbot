@@ -1,0 +1,177 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hi",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "hey",
+        "greetings",
+        "whats up",
+        "how is it going?",
+        "how are you doing?",
+        "how is your day going?",
+        "how is your day?",
+        "how is your day going so far?"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?",
+        "Hey!",
+        "What can I do for you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "cya",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Have a Good day",
+        "bye",
+        "quit",
+        "exit",
+        "goodbye",
+        "have a nice day",
+        "see you later",
+        "talk to you soon",
+        "see ya",
+        "cao",
+        "see you later alligator",
+        "bye bye",
+        "bye for now",
+        "i must go",
+        "farewell",
+        "nice chatting to you, bye",
+        "till next time",
+        "bye for now.",
+        "i have to go",
+        "ok, bye",
+        "tata",
+        "bye then",
+        "see you soon"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!",
+        "See you later",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Bye for now"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old",
+        "how old are you",
+        "what is your age",
+        "how old are you",
+        "age",
+        "age?",
+        "what is your age?"
+      ],
+      "responses": ["My owner Mustafa is 22 years old!", "I am 0 years old!"]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "what should I call you",
+        "whats your name",
+        "do you have a name",
+        "name",
+        "name?",
+        "what is your name?",
+        "can you tell me your name?",
+        "what do people call you?",
+        "what should I call you?",
+        "whats your name?",
+        "do you have a name?",
+        "what are you called?",
+        "who are you?",
+        "who are you"
+      ],
+      "responses": [
+        "You can call me Meca!",
+        "I'm Meca!",
+        "I'm Meca, but you can call me whatever you like",
+        "My name is Meca!",
+        "I'm Meca Bot, but my friends call me Meca",
+        "You can call me Meca Bot",
+        "I'm Meca Bot",
+        "My name is Meca Bot"
+      ]
+    },
+    {
+      "tag": "shop",
+      "patterns": [
+        "I want to buy something",
+        "What do you have?",
+        "What do you sell?",
+        "What are you selling?",
+        "What do you have for sale?",
+        "What do you have in your shop?",
+        "What do you have in your store?",
+        "What do you have to sell?",
+        "What do you have to offer?",
+        "What are you selling",
+        "Id like to buy something",
+        "What are your products",
+        "What do you recommend?",
+        "What are your items?",
+        "What are your goods?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea",
+        "Coffee and tea are our specialities!",
+        "We have a wide variety of coffee and tea"
+      ]
+    },
+    {
+      "tag": "hours",
+      "patterns": [
+        "what are your hours",
+        "when are you open",
+        "what are your hours of operation",
+        "hours",
+        "hours?",
+        "what are your hours?",
+        "when are you open?",
+        "what are your hours of operation?"
+      ],
+      "responses": [
+        "24/7",
+        "We are open 24/7",
+        "We are open 24 hours a day, 7 days a week"
+      ]
+    },
+    {
+      "tag": "stocks",
+      "patterns": [
+        "What stocks do I own",
+        "What stocks do I have",
+        "how are my shares?",
+        "how are my stocks?",
+        "how are my shares doing?",
+        "how are my stocks doing?",
+        "how are my shares doing today?",
+        "how are my stocks doing today?",
+        "how are my shares doing this week?",
+        "how are my stocks doing this week?",
+        "how are my shares doing this month?",
+        "how are my stocks doing this month?",
+        "what companies am I investing in?",
+        "what companies am I invested in?"
+      ],
+      "responses": ["You are investing in Apple, Google, and Microsoft"]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I assist you?",
+        "Hi there! How can I help you today?",
+        "Hey! What can I do for you?",
+        "Good day! How can I assist you?",
+        "Hello! How can I be of service?",
+        "Hi there! How can I assist you today?",
+        "Hello! What can I do for you?"
+      ]
+    },
+    {
+      "tag": "intro",
+      "patterns": [
+        "Who are you?",
+        "What's your name?",
+        "Introduce yourself",
+        "Tell me about yourself"
+      ],
+      "responses": [
+        "I'm your personal assistant.",
+        "I'm your friendly assistant here to help you.",
+        "I'm an AI personal assistant designed to assist you.",
+        "I'm here to assist you with tasks and provide information.",
+        "I'm your virtual personal assistant.",
+        "I'm your digital companion, ready to assist you."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help me",
+        "I need assistance",
+        "Can you help me?",
+        "What can you do for me?"
+      ],
+      "responses": [
+        "Of course, I'm here to help. How can I assist you?",
+        "I'm here to assist you. Please let me know what you need help with.",
+        "Sure, I can help you with various tasks. What do you need assistance with?",
+        "Absolutely, I'm here to assist you with any questions or tasks you have.",
+        "I'm here to help you. Just tell me what you need."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "See you later",
+        "Farewell",
+        "Bye for now",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you later! If you need anything else, don't hesitate to return.",
+        "Farewell! If you have more questions in the future, feel free to ask.",
+        "Bye for now! If you ever need assistance, I'll be here.",
+        "Take care! If you need help, remember I'm just a message away."
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "what should I call you",
+        "whats your name",
+        "do you have a name",
+        "name",
+        "name?",
+        "what is your name?",
+        "can you tell me your name?",
+        "what do people call you?",
+        "what should I call you?",
+        "whats your name?",
+        "do you have a name?",
+        "what are you called?",
+        "who are you?",
+        "who are you"
+      ],
+      "responses": [
+        "You can call me Meca!",
+        "I'm Meca!",
+        "I'm Meca, but you can call me whatever you like",
+        "My name is Meca!",
+        "I'm Meca Bot, but my friends call me Meca",
+        "You can call me Meca Bot",
+        "I'm Meca Bot",
+        "My name is Meca Bot"
+      ]
+    }
+  ]
+}
